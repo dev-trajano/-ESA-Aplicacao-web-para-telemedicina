@@ -1,4 +1,4 @@
-# Engenharia de software aplicada Aplicao web para telemedicina
+# Engenharia de software aplicada Aplicação web para telemedicina
 
 <br/> Participantes
 
